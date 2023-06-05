@@ -1,7 +1,3 @@
-<!doctype html>
-
-
-  
   <script type="text/javascript">
     function redirectToURL() {
       var password = document.getElementById("password").value;
@@ -24,4 +20,3 @@
   <input type="password" id="password" />
   <button onclick="redirectToURL()">Start the Virus</button>
 
-</!doctype>
