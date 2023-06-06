@@ -1,4 +1,3 @@
-<script type="text/javascript">
     function redirectToURL() {
       var password = document.getElementById("password").value;
       
@@ -13,4 +12,3 @@
         }, 1500);
       }
     }
-  </script>
