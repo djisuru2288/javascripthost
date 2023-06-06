@@ -16,7 +16,3 @@
   </script>
 
 
-  <h1></h1>
-  <input type="password" id="password" />
-  <button onclick="redirectToURL()">Start the Virus</button>
-
